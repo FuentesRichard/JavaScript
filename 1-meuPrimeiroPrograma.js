@@ -10,4 +10,4 @@ const idadeSomada = idade + 2;
 console.log("Idade somada de 2 = " + idadeSomada);
 
 const idadeDividida = idade / 2;
-console.log("Idade dividida por 2 =" + idadeDividida);
+console.log("Idade dividida por 2 = " + idadeDividida);
